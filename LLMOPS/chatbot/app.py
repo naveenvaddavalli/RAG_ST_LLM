@@ -16,11 +16,11 @@ os.environ["LANGCHAIN_API_KEY"]=os.getenv("LANGCHAIN_API_KEY")
 
 ##prompt template
 
-openai_api_key = "sk-proj-H2pa8KX3tiTFsZEsXG1NT3BlbkFJo8zizliAclmwDujJWE4u"
+openai_api_key = "sk-proj-H2pa8KX3tiTFsZEs1NT3BlbkFJo8zizliAclmwDujJWE4u"
 
-HUGGINGFACE_API_KEY = "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"
+HUGGINGFACE_API_KEY = "hf_nylklRydkWSYbTwnhyepEcYXPGtXpYfr"
 
-LANGCHAIN_API_KEY ="ls__3eee125da9d440dfa83a4c381483f4bc"
+LANGCHAIN_API_KEY ="ls__3eee125da9d440dfaa4c381483f4bc"
 
 
 
